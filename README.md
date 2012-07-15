@@ -26,6 +26,4 @@ What is does?
 ### Disclaimer
 > I lied (really?)! It can show message entered by you, dear user! `echo "You're a fool!"`
 
-[Here](https://d610.pl "D610 Test Server") you can see my site.
-
 [1]: http://example.com/    "Settings"
