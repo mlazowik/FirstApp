@@ -1,7 +1,7 @@
 First App
 =========
 
-This is my first app, first git repository, first branch __and__ first readme!
+This is my first app, first git repository, first branch _and_ first readme!
 __Yeah.__
 
 Settings
@@ -24,7 +24,7 @@ What is does?
 * _and_, would you believe it? Nothing!.
 
 ### Disclaimer
-I lied! It can show message entered by you, dear user! `echo "You're a fool!"`
+> I lied! It can show message entered by you, dear user! `echo "You're a fool!"`
 
 [Here](https://d610.pl "D610 Test Server") you can see my site.
 
