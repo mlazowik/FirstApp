@@ -16,6 +16,11 @@ __Yay!__
 > I might not be rational here, please __don't__ believe me!
 > ## Michał Łazowik
 
+Options
+-------
+
+Options contain exactly the same informations which are here - nothing :)
+
 What is does?
 -------------
 
