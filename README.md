@@ -10,7 +10,7 @@ Settings
 Currently there are no [settings][1].
 
 But there is a fake button for [setttings][1]!
-_Yay!_
+__Yay!__
 
 ### Disclaimer
 > I might be not rational here, please __don't__ believe me!
