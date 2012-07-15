@@ -2,6 +2,7 @@
 
     <string name="app_name">First App</string>
     <string name="menu_settings">Ustawienia</string>
+    <string name="menu_options">Opcje</string>
     <string name="title_activity_first">First App</string>
     <string name="edit_message">Wprowadź wiadomość</string>
     <string name="button_send">Wyślij</string>
