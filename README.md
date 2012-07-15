@@ -20,8 +20,8 @@ What is does?
 -------------
 
 * Nothing,
-* nothing
-* _and_, would you believe it? Nothing!
+* nothing, _and_
+* would you believe it? Nothing!
 
 ### Disclaimer
 > I lied (really?)! It can show message entered by you, dear user! `echo "You're a fool!"`
