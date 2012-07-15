@@ -14,7 +14,7 @@ _Yay!_
 
 ### Disclaimer
 > I might be not rational here, please __don't__ believe me!
-> ## Michał Ł
+> ## Michał Łazowik
 
 What is does?
 -------------
