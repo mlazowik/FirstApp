@@ -2,7 +2,7 @@ First App
 =========
 
 This is my first app, first git repository, first branch __and__ first readme!
-_Yeah._
+__Yeah.__
 
 Settings
 --------
@@ -21,7 +21,7 @@ What is does?
 
 * Nothing,
 * nothing
-* __and__, would you believe it? Nothing!.
+* _and_, would you believe it? Nothing!.
 
 ### Disclaimer
 I lied! It can show message entered by you, dear user! `echo "You're a fool!"`
