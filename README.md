@@ -16,10 +16,17 @@ __Yay!__
 > I might not be rational here, please __don't__ believe me!
 > ## Michał Łazowik
 
+<<<<<<< Updated upstream
 Options
 -------
 
 Options contain exactly the same informations which are here - nothing :)
+=======
+Help
+----
+
+Contains exactly the same as this readme - nothing :)
+>>>>>>> Stashed changes
 
 What is does?
 -------------

@@ -6,5 +6,6 @@
     <string name="title_activity_first">First App</string>
     <string name="edit_message">Wprowadź wiadomość</string>
     <string name="button_send">Wyślij</string>
-
+    <string name="menu_help">Pomoc</string>
+    
 </resources>
