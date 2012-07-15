@@ -13,7 +13,7 @@ But there is a fake button for [setttings][1]!
 __Yay!__
 
 ### Disclaimer
-> I might be not rational here, please __don't__ believe me!
+> I might not be rational here, please __don't__ believe me!
 > ## Michał Łazowik
 
 What is does?
@@ -24,7 +24,7 @@ What is does?
 * _and_, would you believe it? Nothing!
 
 ### Disclaimer
-> I lied! It can show message entered by you, dear user! `echo "You're a fool!"`
+> I lied (really?)! It can show message entered by you, dear user! `echo "You're a fool!"`
 
 [Here](https://d610.pl "D610 Test Server") you can see my site.
 
