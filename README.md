@@ -21,7 +21,7 @@ Help
 
 Contains exactly the same as this readme - nothing :)
 
-What is does?
+What id does?
 -------------
 
 * Nothing,
