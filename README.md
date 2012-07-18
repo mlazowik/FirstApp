@@ -14,7 +14,6 @@ __Yay!__
 
 ### Disclaimer
 > I might not be rational here, please __don't__ believe me!
-> ## Michał Łazowik
 
 Help
 ----
